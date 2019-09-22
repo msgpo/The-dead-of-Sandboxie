@@ -5,7 +5,7 @@ I was a long time Sandboxie user (by Invincea), until [Sophos took over it](http
 
 ## Download
 
-The latest (free) version v5.31.4 can be downloaded from [here](https://www.sandboxie.com/DownloadSandboxie). You can fill-in fake [eMail](https://temp-mail.org/) data to get to the real download links (I'm not permitted to post any direct download URL).
+The latest (free) version v5.31.4 can be downloaded from [here](https://www.sandboxie.com/DownloadSandboxie). You can fill-in fake [eMail](https://temp-mail.org/) data to get to the real download links (I'm not permitted to post any direct download URL). The official forum can be found over [here](https://community.sophos.com/products/sandboxie/f/forum) (no login required).
 
 
 
@@ -29,4 +29,4 @@ Not much, Windows 10 got his own "sandbox". Sandboxies concept is (or was) not b
 
 ## Why this repo?
 
-Well, I'm (again) disappointed and it makes me _angry_ that paid customers are "screwed" again (yes it's now freeware, yes it will be ]open source'd](https://community.sophos.com/products/sandboxie/f/forum/115109/major-sandboxie-news-sandboxie-is-now-a-free-tool-with-plans-to-transition-it-to-an-open-source-tool) - _I get that_). As said, I'm worried that no one is really working with the souce code (once it was finally uploaded). Personally, I'm hoping Microsoft improves Windows Sandbox.
+Well, I'm (again) disappointed and it makes me "_angry_" that paid customers are "screwed" again (yes it's now freeware, yes it will be ]open source'd](https://community.sophos.com/products/sandboxie/f/forum/115109/major-sandboxie-news-sandboxie-is-now-a-free-tool-with-plans-to-transition-it-to-an-open-source-tool) - _I get that_). As said, I'm worried that no one is really working with the souce code (once it was finally uploaded). Personally, I _hope_ Microsoft improves their own Windows Sandbox solution.... 
