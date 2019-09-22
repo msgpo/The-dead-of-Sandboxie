@@ -1,5 +1,8 @@
 # The dead of Sandboxie
 
+> We are the [GAFAM](https://en.wikipedia.org/wiki/GAFAM)! Lower your shields and surrender your privacy. We will add your biological and technological distinctiveness to our own telemetry. Your buying behavior will adapt to our ad-services. Resistance is futile!
+
+
 I was a long time Sandboxie user (by Invincea), until [Sophos took over it](https://community.sophos.com/products/sandboxie/f/forum/115109/major-sandboxie-news-sandboxie-is-now-a-free-tool-with-plans-to-transition-it-to-an-open-source-tool/), which was in my opinion a bad decision. Sandboxie is currently freeware and the Sophos team [promised to open source it](https://community.sophos.com/products/sandboxie/f/forum/115109/major-sandboxie-news-sandboxie-is-now-a-free-tool-with-plans-to-transition-it-to-an-open-source-tool/).
 
 
@@ -22,11 +25,13 @@ Well, I did not (yet) found any source code, there is a promise but that's it (f
 
 Sophos wrote that sandboxie is not their main priority and this worries me, they might integrate it into one of their products which then forces you to use their solution. I see that someone could compile (based on the source code leak) his own binary, however it's unclear if Sophos really uploads an "untouched" version or if its bound together with something else which would make it even harder to _get the original sandoxie_ program back.
 
+It's also questionable if the new product will come with "telemetry" (see CCLeaner) to improve their product or not, this worries me, from my experience telemetry itself never really helped any software product to improve something. In most cases it was exactly the opposite e.g. privacy leaks or MITM attacks in order to obtain victims private data.
+
 ## Alternatives?
 
-Not much, Windows 10 got his own "sandbox". Sandboxies concept is (or was) not bad, however keep in mind that the program itself is from XP ages, nowdays we are using hardware virtualization as sandbox solution, not software (like sandboxie does). Alternatives are Comodo, 360, Windows or software with [hardened security feaures](https://www.bromium.com/our-tech/bromium-secure-platform/). On Linux there is basically only Firejail.
+Not much, Windows 10 got his own "sandbox". Sandboxies concept is (or was) not bad, however keep in mind that the program itself is from XP ages, nowadays we are using hardware virtualization as sandbox solution, not software (like sandboxie does). Alternatives are Comodo, 360, Windows or software with [hardened security features](https://www.bromium.com/our-tech/bromium-secure-platform/). On Linux there is basically only Firejail.
 
 
 ## Why this repo?
 
-Well, I'm (again) disappointed and it makes me "_angry_" that paid customers are "screwed" again (yes it's now freeware, yes it will be ]open source'd](https://community.sophos.com/products/sandboxie/f/forum/115109/major-sandboxie-news-sandboxie-is-now-a-free-tool-with-plans-to-transition-it-to-an-open-source-tool) - _I get that_). As said, I'm worried that no one is really working with the souce code (once it was finally uploaded). Personally, I _hope_ Microsoft improves their own Windows Sandbox solution.... 
+Well, I'm (again) disappointed and it makes me "_angry_" that paid customers are "screwed" again (yes it's now freeware, yes it will be [open source'd](https://community.sophos.com/products/sandboxie/f/forum/115109/major-sandboxie-news-sandboxie-is-now-a-free-tool-with-plans-to-transition-it-to-an-open-source-tool) - _I get that!_). As said, I'm worried that no one is really working with the source code (once it was finally uploaded). Personally, I can only _hope_ Microsoft improves their own Windows Sandbox solution .... 
