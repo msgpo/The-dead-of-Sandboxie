@@ -34,7 +34,7 @@ Not much, Windows 10 got his own "sandbox". Sandboxies concept is (or was) not b
 
 ## Why this repo?
 
-Well, I'm (again) disappointed and it makes me "_angry_" that paid customers are "screwed" again (yes it's now freeware, yes it will be [open source'd](https://community.sophos.com/products/sandboxie/f/forum/115109/major-sandboxie-news-sandboxie-is-now-a-free-tool-with-plans-to-transition-it-to-an-open-source-tool) - _I get that!_). As said, I'm worried that no one is really working with the source code (once it was finally uploaded). Personally, I can only _hope_ Microsoft improves their own Windows Sandbox solution, but we will see how "stable" that will be (the current sandbox is not really "usable" in its current state).
+Well, I'm (again) disappointed and it makes me "_angry_" that paid customers are "screwed" again (yes it's now freeware, yes it will be [open source'd](https://community.sophos.com/products/sandboxie/f/forum/115109/major-sandboxie-news-sandboxie-is-now-a-free-tool-with-plans-to-transition-it-to-an-open-source-tool) - _I get that!_). As said, I'm worried that no one is really working with the source code (once it was finally uploaded). Personally, I can only _hope_ Microsoft improves their own [Windows Sandbox solution](https://askleo.com/whats-the-difference-between-a-sandbox-and-a-virtual-machine/), but we will see how "stable" that will be (the current sandbox is not really "usable" in its current state).
 
 Basically to show the world, that:
 * ... there are alternatives like Comodo etc.
