@@ -40,3 +40,7 @@ Basically to show the world, that:
 * ... there are alternatives like Comodo etc.
 * .. my point of view on this, I could have just created a gist but my gists often getting spammed by bots.
 * . we should keep an eye on this topic.
+
+
+## Timeline
+- 09.04.2020 - [Sophos open source'd Sandboxie](https://twitter.com/TheHackersNews/status/1248310760242991104)
