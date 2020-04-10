@@ -43,4 +43,8 @@ Basically to show the world, that:
 
 
 ## Timeline
-- 09.04.2020 - [Sophos open source'd Sandboxie](https://twitter.com/TheHackersNews/status/1248310760242991104)
+- 09.04.2020 - [Sophos open source'd Sandboxie](https://twitter.com/TheHackersNews/status/1248310760242991104), the source code is avbl. over [here](https://github.com/DavidXanatos/Sandboxie) it's licensed under GPLv3.
+- Sept. 2019 - Sophos switched to a new license.
+- Febr. 2017 - Sophos announced the acquisition of Invincea. Invincea posted an assurance in Sandboxie's website that for the time being Sandboxie's development and support would continue as normal.
+- ~Dec. 2013 - Invincea announced the acquisition of Sandboxie.
+- ~ 05 2004  - Sandboxie was initially released in 2004 as a tool for sandboxing Internet Explorer. Over time, the program was expanded to support other browsers and arbitrary Win32 applications.
